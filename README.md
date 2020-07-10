@@ -23,9 +23,13 @@ Navigate to URL http://localhost:5000
 
 You should be able to view the homepage as below :
 
+![Homepage (2)](https://user-images.githubusercontent.com/54431128/87170383-17c74c00-c2f3-11ea-8add-51fbeb81b1c0.png)
+
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
 If everything goes well, you should be able to see the predcited salary vaule on the HTML page:
+
+![Screenshot (518)](https://user-images.githubusercontent.com/54431128/87170412-1eee5a00-c2f3-11ea-9ec1-399084b42dd4.png)
 
 You can also send direct POST requests to FLask API using Python's inbuilt request module Run the beow command to send the request with some pre-popuated values -
 
